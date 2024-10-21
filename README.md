@@ -59,7 +59,7 @@ Ce guide se concentrera principalement sur la gestion automatisée des versions 
 <img src="assets/devops_dcm_schemachange_github-4.png" width="250" />
 
 
-Schemachange est un outil léger basé sur Python pour gérer tous vos objets de flocon de neige.Il suit une approche de style impératif de la gestion du changement de base de données (DCM).Lorsque Schemachange est combiné avec un outil de contrôle de version et un outil CI / CD, les modifications de la base de données peuvent être approuvées et déployées via un pipeline à l'aide de pratiques de LIVRAISON de Software.
+Schemachange est un outil léger basé sur Python pour gérer tous vos objets Snowflake.Il suit une approche de style <ins>impératif</ins> de la gestion du changement de base de données (DCM).Lorsque Schemachange est combiné avec un outil de contrôle de version et un outil CI / CD, les modifications de la base de données peuvent être approuvées et déployées via un pipeline à l'aide de pratiques de LIVRAISON de Software.
 
 For more information about schemachange please see [the schemachange project page](https://github.com/Snowflake-Labs/schemachange).
 
